@@ -11,4 +11,4 @@ else if(nivel >= 9001 && nivel <= 10000) {nivel = "Imortal"}
   else {nivel = "Radiante" 
   }
 
-console.log('O Herói de nome ' + (nome) + ' está no nível ' + (nivel) + '.');
+console.log(`O Herói de nome ${nome} está no nível ${nivel}.`);
