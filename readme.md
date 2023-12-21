@@ -10,7 +10,7 @@ No primeiro **Desafio** foi solicitado um classificador de nível do herói, foi
 
 ### Desafio 2:
 
-No segundo **Desafio** foi proposto a criação de uma _calculadora de rank_ para o personagem. Para a criação deste _rank_ foram utilizados _operadores lógicos_, _estruturas condicionais_ e _funções_. A proposta era a criação de uma calculadora que definisse o _rank do personagem_ de acordo com suas vítorias. 
+No segundo **Desafio** foi proposto a criação de uma _calculadora de rank_ para o personagem. Para a criação deste _rank_ foram utilizados _operadores lógicos_, _estruturas condicionais_ e _funções_. A proposta era a criação de uma calculadora que definisse o _rank do personagem_ de acordo com sua taxa de vitórias. 
 
 Achei interessante informar a quantidade _total_ de lutas, a quantidade total de _vitórias_ e _derrotas_, além do aproveitamento entre elas, o que classifica o _rank do personagem_.
 
