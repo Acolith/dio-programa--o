@@ -2,32 +2,16 @@
 
 ## Programação do Zero
 
-Confome solicitado abaixo, foi feito um classificador de nível do herói. Porém, foram utilizadas somente as variáveis, operadores e estruturas de decição.
+### Desafio 1:
 
-Instruções para entrega
-# 1️⃣ Desafio Classificador de nível de Herói
+Estas são as etapas de desafio do BootCamp Programação do Zero realizado na linguagem **JavaScript**.
 
-**O Que deve ser utilizado**
+No primeiro **Desafio** foi solicitado um classificador de nível do herói, foi realizado de forma básica com as _estruturas condicionais_ e _operadores lógicos_ que classificavam de acordo com a _variável_ de experiência e nome do personagem, o que define o personagem e qual é o seu nível. Os níveis vão desde o **Ferro** ao **Radiante** dentro das faixas de experências.
 
-- Variáveis;
-- Operadores;
-- Laços de repetição;
-- Estruturas de decisõe.
+### Desafio 2:
 
-## Objetivo
+No segundo **Desafio** foi proposto a criação de uma _calculadora de rank_ para o personagem. Para a criação deste _rank_ foram utilizados _operadores lógicos_, _estruturas condicionais_ e _funções_. A proposta era a criação de uma calculadora que definisse o _rank do personagem_ de acordo com suas vítorias. 
 
-Crie uma variável para armazenar o nome e a quantidade de experiência (XP) de um herói, depois utilize uma estrutura de decisão para apresentar alguma das mensagens abaixo:
+Achei interessante informar a quantidade _total_ de lutas, a quantidade total de _vitórias_ e _derrotas_, além do aproveitamento entre elas, o que classifica o _rank do personagem_.
 
-Se XP for menor do que 1.000 = Ferro;
-Se XP for entre 1.001 e 2.000 = Bronze;
-Se XP for entre 2.001 e 5.000 = Prata;
-Se XP for entre 6.001 e 7.000 = Ouro;
-Se XP for entre 7.001 e 8.000 = Platina;
-Se XP for entre 8.001 e 9.000 = Ascendente;
-Se XP for entre 9.001 e 10.000= Imortal;
-Se XP for maior ou igual a 10.001 = Radiante.
-
-## Saída
-
-Ao final deve se exibir uma mensagem:
-"O Herói de nome **{nome}** está no nível de **{nivel}**".
+Foi utilizada um pouco da **lógica** do primeiro Desafio, alterando-se absolutanmente as nomenclaturas e formas de classificação do personagem. Uma lógica um pouco mais robusta, já que foram utilizados novos recursos.

@@ -1,5 +1,5 @@
 var nome = "Acolith";
-var nivel = 8964;
+var nivel = 12000;
 
 if(nivel <= 1000) {nivel = "Ferro"} 
 else if(nivel >= 1001 && nivel <= 2000) {nivel = "Bronze"}
